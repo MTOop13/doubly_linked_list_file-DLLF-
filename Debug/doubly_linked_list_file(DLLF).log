@@ -1,0 +1,5 @@
+﻿  doubly_linked_list_file(DLLF).cpp
+C:\Users\Mohammed Hidarah\source\repos\doubly_linked_list_file(DLLF)\doubly_linked_list_file(DLLF).cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohammed Hidarah\source\repos\doubly_linked_list_file(DLLF)\doubly_linked_list_file(DLLF).cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohammed Hidarah\source\repos\doubly_linked_list_file(DLLF)\doubly_linked_list_file(DLLF).cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+  doubly_linked_list_file(DLLF).vcxproj -> C:\Users\Mohammed Hidarah\source\repos\doubly_linked_list_file(DLLF)\Debug\doubly_linked_list_file(DLLF).exe
